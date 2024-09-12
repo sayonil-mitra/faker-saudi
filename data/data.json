@@ -1,0 +1,18 @@
+{
+  "tertiary": {
+    "PerformanceMetrics": "",
+    "GoalRiskIndicators": "",
+    "CompetitivenessMetrics": "",
+    "CompetitivenessRiskIndicators": "",
+    "STEMPerformanceMetrics": "",
+    "STEMMitigationPlans": "66e30ad54006bd33cd1a37d7"
+  },
+  "quaternary": {
+    "OKRTracking": "",
+    "RiskMitigationActions": "",
+    "BenchmarkingData": "66e30ae9f604240f964045fc",
+    "MitigationPlans": "",
+    "STEMRiskIndicators": "66e30abff604240f964045fb",
+    "STEMBenchmarkingData": ""
+  }
+}
